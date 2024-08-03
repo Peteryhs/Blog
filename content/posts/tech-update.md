@@ -8,8 +8,8 @@ tags:
   - untagged
 ---
 
-## Quick update to the way image *will* be posted
-Just aquird a domain acting as a access point for Cloudflare R2 storage to serve images 
+## Quick update to the way image  *will*  be posted
+Just acquired a domain to act as a access point for the Cloudflare R2 storage to serve images 
 
 Also test to see if the system works :D
 
