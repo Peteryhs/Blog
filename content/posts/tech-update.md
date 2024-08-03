@@ -13,4 +13,4 @@ Just acquired a domain to act as a access point for the Cloudflare R2 storage to
 
 Also test to see if the system works :D
 
-*--8/2/2024* 
+*-- 8/2/2024* 
